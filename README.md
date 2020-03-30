@@ -1,5 +1,5 @@
 # excel-contact-sheet
-Contact sheet for people who want a slightly less manual way to record visitors, and do not have the infra or technology to do automated contact tracing.
+Contact sheet for people who want a slightly less manual way to record visitors, and do not have the infra or technology to do automated contact recording.
 
 I've written a simple formula to automatically fill up the datetime columns when a name is added to a list, or when the said name has left the premises. 
 
